@@ -1,0 +1,26 @@
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+}
+.note{
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    overflow-wrap: break-word;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px darkgray;
+}
